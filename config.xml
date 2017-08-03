@@ -2,7 +2,7 @@
 <widget id="love.godlovesyou.godlovesuapp" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>My Prayers</name>
     <description>
-        An App that can help you with your daily prayers.
+        An App that can help you with your Daily Prayers.
     </description>
     <author href="http://godlovesyou.love" email="info@godlovesyou.love">God Loves You Team Team
     </author>
